@@ -1,4 +1,4 @@
-# Building-a-Simple-Web-Application-with-PHP
+# Building-a-Web-Application-with-PHP
 this is a music playing website made using php
 these are 5.php files
 index.php- main file
